@@ -1,5 +1,8 @@
 # Gaming LAN Bridge con ZeroTier + MOON
 
+<img width="1666" height="521" alt="image" src="https://github.com/user-attachments/assets/9b56a115-e5c0-4698-a7b4-174e77c34630" />
+
+
 Guía para montar una red virtual de juegos en LAN mediante ZeroTier autoalojado, un controlador propio y un MOON propio.
 
 > **Importante:** esta guía documenta una configuración concreta que se probó en un entorno particular. Adapta interfaces, direcciones, rutas y reglas de firewall a tu red. Haz una copia de seguridad de la configuración de red antes de cambiar Netplan: un error puede dejar la VM inaccesible por SSH.
