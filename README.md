@@ -1,6 +1,6 @@
 # Gaming LAN Bridge con ZeroTier + MOON
 
-<img width="1666" height="521" alt="image" src="https://github.com/user-attachments/assets/9b56a115-e5c0-4698-a7b4-174e77c34630" />
+<img width="2170" height="725" alt="image" src="https://github.com/user-attachments/assets/9c358694-71cd-49d5-8c5c-efb426e709d5" />
 
 
 Guía para montar una red virtual de juegos en LAN mediante ZeroTier autoalojado, un controlador propio y un MOON propio.
